@@ -6,7 +6,7 @@ The aim of the project was to select a linguistic dataset and:
 
 This task was inspired by the shared task on SemEval2023 "Detecting the gender, the framing, and the persuasion techniques in online news in a multi-lingual setup" (https://propaganda.math.unipd.it/semeval2023task3/), from whose data the necessary dataset was built in order to perform the classification of different types of persuasive communication present in the texts, for a total of 7 types.
 
-The folder was made up as follows:
+The folder is composed as follows:
 - Inside the _generation_ folder there is the notebook that allowed the creation of the dataset definitively used in order to carry out the task;
 - Three jupyter notebook files containing:
     - text exploration using NLTK library methods and performing various tasks such as entity name recognition and sentiment analysis;
