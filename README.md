@@ -10,7 +10,7 @@ The folder is composed as follows:
 - Inside the _generation_ folder there is the notebook that allowed the creation of the dataset definitively used in order to carry out the task;
 - Three jupyter notebook files containing:
     - text exploration using NLTK library methods and performing various tasks such as entity name recognition and sentiment analysis;
-    - the application of different non-LLM classification algorithms.
+    - the application of different non-LLM classification algorithms;
     - the application of the BertForSequenceClassification (LLM) classification model.
 - A pdf file containing the project report and the presentation of the results obtained.
 
@@ -26,6 +26,6 @@ La cartella è stata così composta:
 - All'interno della cartella _generazione_ è presente il notebook che ha permesso la creazione del dataset definitivamente utilizzato al fine di svolgere il task;
 - Tre file jupyter notebook che contengono:
   - l'esplorazione dei testi tramite metodi di libreria NLTK e lo svolgimento di diverse task come la name entity recogniton e sentiment analysis;
-  - l'applicazione di divesi algoritmi di classificazione non LLM.
+  - l'applicazione di divesi algoritmi di classificazione non LLM;
   - l'applicazione del modello di classificazione BertForSequenceClassification (LLM).
 - Un file pdf che contiene la relazione di progetto e la presentazione dei risultati ottenuti.
