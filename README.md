@@ -14,6 +14,8 @@ The folder is composed as follows:
     - the application of the BertForSequenceClassification (LLM) classification model.
 - A pdf file containing the project report and the presentation of the results obtained.
 
+The project was carried out in collaboration with Giulio Canapa, Diego Borsetto and Sara Quattrone.
+
 ############################################################################
 
 Lo scopo del progetto era selezionare un dataset di dati linguistici e:
@@ -29,3 +31,5 @@ La cartella è stata così composta:
   - l'applicazione di divesi algoritmi di classificazione (non LLM) e l'applicazione di diversi metodi per _l'estrazione di features_ al fine di creare una rappresentazione vettoriale dei testi;
   - l'applicazione del modello di classificazione BertForSequenceClassification (LLM).
 - Un file pdf che contiene la relazione di progetto e la presentazione dei risultati ottenuti.
+
+Il progetto è stato svolto in collaborazione con Giulio Canapa, Diego Borsetto and Sara Quattrone.
